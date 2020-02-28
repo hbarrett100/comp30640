@@ -1,2 +1,3 @@
 # comp30640
-Operating Systems - bash project
+Operating Systems Module
+Bash project - password management system
